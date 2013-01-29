@@ -1,0 +1,65 @@
+{
+   "abstract" : "unknown",
+   "author" : [
+      "Lee Aylward <leedo@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.112621",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Alice",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.59",
+            "Test::More" : "0.86",
+            "Test::TCP" : 0
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : 0
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Any::Moose" : 0,
+            "AnyEvent" : "5.2",
+            "AnyEvent::AIO" : 0,
+            "AnyEvent::DBI" : 0,
+            "AnyEvent::HTTP" : 0,
+            "AnyEvent::IRC" : "0.95",
+            "Class::Throwable" : 0,
+            "DBD::SQLite" : 0,
+            "EV" : 0,
+            "File::Copy" : 0,
+            "File::ShareDir" : 0,
+            "Fliggy" : 0,
+            "IRC::Formatting::HTML" : "0.28",
+            "JSON" : "2.12",
+            "List::MoreUtils" : 0,
+            "Net::SSLeay" : 0,
+            "Plack" : 0,
+            "Plack::Session" : 0,
+            "Protocol::WebSocket" : "0.00906",
+            "SQL::Abstract" : 0,
+            "Text::MicroTemplate" : "0.09",
+            "Try::Tiny" : 0,
+            "perl" : "5.008"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.20"
+}

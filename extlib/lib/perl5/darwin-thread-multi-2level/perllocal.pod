@@ -1,0 +1,594 @@
+=head2 Mon Jan 28 20:11:40 2013: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.98>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:11:44 2013: C<Module> L<Test::SharedFork|Test::SharedFork>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:11:47 2013: C<Module> L<Test::TCP|Test::TCP>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:11:52 2013: C<Module> L<Protocol::WebSocket|Protocol::WebSocket>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:11:57 2013: C<Module> L<File::ShareDir|File::ShareDir>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:12:00 2013: C<Module> L<IRC::Formatting::HTML|IRC::Formatting::HTML>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:12:07 2013: C<Module> L<AnyEvent|AnyEvent>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 7.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:12:14 2013: C<Module> L<Hash::MultiValue|Hash::MultiValue>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:12:17 2013: C<Module> L<Devel::StackTrace|Devel::StackTrace>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:12:20 2013: C<Module> L<HTTP::Body|HTTP::Body>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:12:25 2013: C<Module> L<Stream::Buffered|Stream::Buffered>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:12:29 2013: C<Module> L<Filesys::Notify::Simple|Filesys::Notify::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:12:34 2013: C<Module> L<Devel::StackTrace::AsHTML|Devel::StackTrace::AsHTML>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:12:40 2013: C<Module> L<Plack|Plack>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0015>
+
+=item *
+
+C<EXE_FILES: bin/plackup>
+
+=back
+
+=head2 Mon Jan 28 20:12:44 2013: C<Module> L<Twiggy|Twiggy>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.1021>
+
+=item *
+
+C<EXE_FILES: bin/twiggy>
+
+=back
+
+=head2 Mon Jan 28 20:12:47 2013: C<Module> L<Fliggy|Fliggy>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.009003>
+
+=item *
+
+C<EXE_FILES: bin/fliggy>
+
+=back
+
+=head2 Mon Jan 28 20:12:55 2013: C<Module> L<EV|EV>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:12:59 2013: C<Module> L<Text::MicroTemplate|Text::MicroTemplate>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.19>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:13:08 2013: C<Module> L<Class::Throwable|Class::Throwable>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:13:28 2013: C<Module> L<IO::AIO|IO::AIO>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.18>
+
+=item *
+
+C<EXE_FILES: bin/treescan>
+
+=back
+
+=head2 Mon Jan 28 20:13:31 2013: C<Module> L<AnyEvent::AIO|AnyEvent::AIO>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.1>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:13:37 2013: C<Module> L<Plack::Middleware::Session|Plack::Middleware::Session>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:13:41 2013: C<Module> L<AnyEvent::HTTP|AnyEvent::HTTP>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:13:44 2013: C<Module> L<AnyEvent::DBI|AnyEvent::DBI>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.2>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:13:47 2013: C<Module> L<Any::Moose|Any::Moose>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:13:51 2013: C<Module> L<Object::Event|Object::Event>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.23>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 28 20:13:54 2013: C<Module> L<AnyEvent::IRC|AnyEvent::IRC>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ewilliam/Projects/DeafCode/irc/alice/extlib/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.96>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
